@@ -1,0 +1,34 @@
+gitinit 
+2 python testing.py                                                                                                               
+   3 ls                                                                                                                              
+   4 clear                                                                                                                           
+   5 ls                                                                                                                              
+   6 ls -l                                                                                                                           
+   7 ls -l                                                                                                                           
+   8 clear                                                                                                                           
+   9 ls                                                                                                                              
+  10 git init                                                                                                                        
+  11 ls dir                                                                                                                          
+  12 ls                                                                                                                              
+  13 dir                                                                                                                             
+  14 git init                                                                                                                        
+  15 dir                                                                                                                             
+  16 clear                                                                                                                           
+  17 git status                                                                                                                      
+  18 ls                                                                                                                              
+  19 dir                                                                                                                             
+  20 git status                                                                                                                      
+  21 ls                                                                                                                              
+  22 clear                                                                                                                           
+  23 git status                                                                                                                      
+  24 git add testing.py                                                                                                              
+  25 git status                                                                                                                      
+  26 clear                                                                                                                           
+  27 git add testing.py                                                                                                              
+  28 git commit -m "add"                                                                                                             
+  29 git status                                                                                                                      
+  30 rm testing.py                                                                                                                   
+  31 git status                                                                                                                      
+  32 git restore testing.py                                                                                                          
+  33 clear                                                                                                                           
+  34 git status    
