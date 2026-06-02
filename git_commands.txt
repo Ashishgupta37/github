@@ -32,4 +32,6 @@ gitinit
   32 git restore testing.py                                                                                                          
   33 clear                                                                                                                           
   34 git status   
+  35 this is some new changes
+
   35 git ashish 
