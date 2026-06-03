@@ -1,1 +1,1 @@
-print("hello dosto jenkins ")
+prin("hello dosto jenkins ")
